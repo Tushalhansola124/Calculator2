@@ -1,6 +1,6 @@
 .calculatorContainer{
   border: 1px solid black ;
-  width:25vw;
+  width:30vw;
  border-radius:2vh;
   padding: 3vh 2.5vh;
   background-color: rgba(17, 16, 16, 0.851);
@@ -25,5 +25,5 @@
   background-color: rgba(26, 163, 200, 0.885);
   color: white;
   
-  margin-right:2.2vw;
+  margin-right:2vw;
 }
