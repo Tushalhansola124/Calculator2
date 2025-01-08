@@ -2,6 +2,7 @@ const ButtonContainer=({clickbtn})=>{
   
   const btnItems=[
     'C',
+    '=',
     '1',
     '2',
     '3',
@@ -19,7 +20,7 @@ const ButtonContainer=({clickbtn})=>{
     '-',
     '%',
     '.',
-    '=',
+    
 
 ]
   return (
