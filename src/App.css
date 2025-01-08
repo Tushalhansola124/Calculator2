@@ -13,7 +13,7 @@
   color: white;
 }
 .btnContainer{
-  margin: 2vw 2vw;
+  margin: 2vh 2vh;
   flex-wrap: wrap;
 }
 .btn{
@@ -24,5 +24,6 @@
   font-weight:300;
   background-color: rgba(26, 163, 200, 0.885);
   color: white;
+  
   margin-right:2vw;
 }
